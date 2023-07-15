@@ -5,3 +5,5 @@
   <li> Improve CSS, add dark mode. </li>
   <li> Generate weather icons linked to current weather. </li>
 </ul>
+
+<p> This app requires you to provide your own API key for the weather app. This is annotated within the code. </p>
